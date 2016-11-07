@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "575317383543",
+    "firebase_url": "https://sayav-146901.firebaseio.com",
+    "project_id": "sayav-146901",
+    "storage_bucket": "sayav-146901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575317383543:android:69f6bfaf016b8304",
+        "android_client_info": {
+          "package_name": "com.desarrollo.sayav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575317383543-qck7su8odsuh7ri0eqofk0s45pm7033o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxao-acT9_Gdsy6_GC2l0ZPNJioyD5T4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
